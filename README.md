@@ -2,8 +2,6 @@
 <h1 align="center">Hi there 👋, I'm Suchita Sharma</h1>
 <h3 align="center"></h3>
 
-- 📫 How to reach me **suchitakumari685@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/suchita-sharma-12720714b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/suchita-sharma-12720714b" height="30" width="40" /></a>
