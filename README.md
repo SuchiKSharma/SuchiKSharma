@@ -27,3 +27,4 @@ Contents
       - [Multiple Linear Regression - Diabetes](https://github.com/SuchiKSharma/Machine-Learning-Projects/blob/Machine-Learning-Projects/Diabetes%20Data%20Analysis.ipynb)
       
 4. [Power BI Projects](https://github.com/SuchiKSharma/Power-BI-Sales-Dash-Board/tree/Machine-Learning-Projects)
+5. [KPMG Virtual Internship]()
