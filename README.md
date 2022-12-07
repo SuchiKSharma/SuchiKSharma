@@ -30,3 +30,4 @@ Contents
       
 4. [Power BI Projects](https://github.com/SuchiKSharma/Power-BI-Sales-Dash-Board/tree/Machine-Learning-Projects)
 5. [KPMG Virtual Internship](https://github.com/SuchiKSharma/KPMG-Virtual-Internship)
+6. [Pandas Practice](https://github.com/SuchiKSharma/Data-Analysis-Portfolio/blob/Machine-Learning-Projects/Pynative%20Pandas%20Practice%20Questions.ipynb)
