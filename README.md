@@ -32,3 +32,4 @@ Contents
 5. [KPMG Virtual Internship](https://github.com/SuchiKSharma/KPMG-Virtual-Internship)
 6. [Pandas Practice 1](https://github.com/SuchiKSharma/Data-Analysis-Portfolio/blob/Machine-Learning-Projects/Pynative%20Pandas%20Practice%20Questions.ipynb)
 7. [Pandas Practice 2](https://github.com/SuchiKSharma/Data-Analysis-Portfolio/blob/Machine-Learning-Projects/Pandas%20Practice%20Set.ipynb) 
+8. [Pandas Practice 3](https://github.com/SuchiKSharma/Data-Analysis-Portfolio/blob/Machine-Learning-Projects/Pandas%20Practice%20Set.ipynb)
